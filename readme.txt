@@ -3,7 +3,7 @@ Model code of VarKarst-R model (Hartmann et al, 2015) with example data set.
 Files in depository:
 
 1. VarKarst_R.m: Matlab code of the VarKarst-R model as a function fed by precipitation [mm/d] and PET [mm/d] that produces karstic recharge [mm/d] and actual evapotranspiration AET [mm/d]
-2. run_VKE.m: Matlab code to run VarKarst-R with example data (described below), plot and comparizon to AET observations
+2. run_VKR.m: Matlab code to run VarKarst-R with example data (described below), plot and comparizon to AET observations
 3. data.mat: Example data (precipitation, PET, AET, 20.12.2003 - 15.01.2008) stored as Matlab array
 
 Reference and Sources
